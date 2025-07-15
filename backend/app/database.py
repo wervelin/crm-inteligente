@@ -1,1 +1,1 @@
-// Conteúdo de exemplo para database.py
+# Connection logic to a PostgreSQL database (placeholder)
